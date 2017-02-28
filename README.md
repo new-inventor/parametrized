@@ -56,6 +56,4 @@ $params->map(
     ],
     false
 );
-
-
 ```
