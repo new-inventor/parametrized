@@ -1,0 +1,23 @@
+{
+  "name": "new-inventor/parametrized",
+  "description": "Trait for adding parameters for class",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "George Ionov",
+      "email": "newinventor20@gmail.com"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "NewInventor\\Parametrized\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.6.0"
+  }
+}
